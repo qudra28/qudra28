@@ -5,7 +5,7 @@
 
 ## Part 1 - GitHub Profile
 
-1. [your_github_username_here's GitHub Profile](FIXTHISURL-https://github.com/your_username)
+1. [your_github_username_here's GitHub Profile](https://github.com/qudra28)
 
 ## Part 2 - Research
 
