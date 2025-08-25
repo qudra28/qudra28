@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there i am waQudra Qudra
+I am currently majoring in cybersecurity/IT 
+and will be graduating in 2028!.
 
-<!--
-**qudra28/qudra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MAJOR:
+Cybersecurity/IT
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤺🚥Coursework:
+Intro to computer programing.
+PC Networking.
+Web develment 1.
+Operinting system concepts and usage.
+
+💻Promigraming Languges:
+Python
+
+
+
+
+
+
+
+
