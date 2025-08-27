@@ -1,4 +1,4 @@
-## Hi there i am waQudra Qudra
+## Hi There I Am WaQudra Qudra
 I am currently majoring in cybersecurity/IT 
 and will be graduating in 2028!.
 
