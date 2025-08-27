@@ -2,20 +2,21 @@
 I am currently majoring in cybersecurity/IT 
 and will be graduating in 2028!.
 
-MAJOR:
-Cybersecurity/IT
+
+###      Major: 🎓 
+-Cybersecurity & IT Major 
+-📅 Expected Graduation: 2028
 
 
-🤺🚥Coursework:
 
-Intro to computer programing.
-PC Networking.
-Web develment 1.
-Operinting system concepts and usage.
+### 🤺🚥 Coursework
+- Intro to Computer Programming  
+- PC Networking  
+- Web Development I  
+- Operating System Concepts and Usage 
 
-
-💻Promigraming Languges:
-Python
+### 💻 Programming Languages
+- Python
 
 
 
