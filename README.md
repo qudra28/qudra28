@@ -18,6 +18,8 @@ and will be graduating in 2028!.
 ### 💻 Programming Languages
 - Python
 
+
+### 🚀 Projects
   
 
 #### 🔹 Past Project: Python Graphics
@@ -25,6 +27,15 @@ and will be graduating in 2028!.
   - Drew a circle using the turtle graphics module.
   - Built a graph visualization using basic plotting logic.
   - Learned about shapes, coordinates, and logic building through Python.
+
+
+
+
+
+#### 🔹 Upcoming Project: Final Website Development
+
+- This semester, I will be developing a website as my final project.
+
 
 
 
